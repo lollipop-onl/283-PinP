@@ -9,7 +9,7 @@
     "48": "icons/48x48.png",
     "128": "icons/128x128.png"
   },
-  "permissions": ["contextMenus", "scripting", "activeTab"],
+  "permissions": ["contextMenus", "scripting"],
   "host_permissions": ["https://shinycolors.enza.fun/*"],
   "content_scripts": [
     {
