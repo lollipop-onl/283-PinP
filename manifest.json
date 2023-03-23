@@ -1,8 +1,8 @@
 {
-  "$schema": "https://json.schemastore.org/chrome-manifest",
   "manifest_version": 3,
   "name": "283 PinP",
   "version": "1.0.0",
+  "description": "IDOLM@STER SHINYCOLORS のゲーム画面を Picture-in-Picture で表示するブラウザ拡張機能",
   "icons": {
     "16": "icons/16x16.png",
     "32": "icons/32x32.png",
